@@ -1,0 +1,15 @@
+h1 {
+    color: chartreuse;
+}
+
+small {
+    display: block;
+}
+
+h3 {
+    display: inline;
+}
+
+.ispy {
+    color: rgb(130, 0, 61);
+}
